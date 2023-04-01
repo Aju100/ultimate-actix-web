@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.2](https://github.com/Aju100/ultimate-actix-web/compare/v0.2.1...v0.2.2) (2023-04-01)
+
+
+### Bug Fixes
+
+* create README.md ([77c7a3e](https://github.com/Aju100/ultimate-actix-web/commit/77c7a3e1d9fcf9a3631ef9effb7ba40ba76adda8))
+
 ## [0.2.1](https://github.com/Aju100/ultimate-actix-web/compare/v0.2.0...v0.2.1) (2023-04-01)
 
 
