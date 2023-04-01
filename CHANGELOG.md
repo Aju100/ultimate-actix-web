@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.1](https://github.com/Aju100/ultimate-actix-web/compare/v0.2.0...v0.2.1) (2023-04-01)
+
+
+### Bug Fixes
+
+* set prerelease as true ([f718105](https://github.com/Aju100/ultimate-actix-web/commit/f7181059b08d8e2a3cfbe2548dfadd82aae67b21))
+
 ## [0.2.0](https://github.com/Aju100/ultimate-actix-web/compare/v0.1.0...v0.2.0) (2023-03-30)
 
 
